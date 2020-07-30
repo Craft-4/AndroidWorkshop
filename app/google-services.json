@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "943131544931",
+    "firebase_url": "https://hochzeit-62616.firebaseio.com",
+    "project_id": "hochzeit-62616",
+    "storage_bucket": "hochzeit-62616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943131544931:android:617616505f57cec2421756",
+        "android_client_info": {
+          "package_name": "com.drei.androidworkshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943131544931-ossfig6tbs325a0bjkn6u59soc83v2bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqTfwEFZ-CLRMe5G6BMpDCtvrHwC8yMjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943131544931-ossfig6tbs325a0bjkn6u59soc83v2bk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
